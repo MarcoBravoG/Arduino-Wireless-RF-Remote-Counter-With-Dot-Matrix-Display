@@ -12,3 +12,6 @@ Wires and a breadboard
 
 
 https://www.instructables.com/Arduino-Wireless-RF-Remote-Counter-With-Dot-Matrix/
+
+
+https://rweather.github.io/arduino-projects/classDMD.html#affd37accffe951c8878434dfa1245809
